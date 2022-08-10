@@ -1,0 +1,3 @@
+﻿  PlateScanner.cpp
+C:\Users\nompy\Visual Studio\openCV\openCV\PlateScanner.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  openCV.vcxproj -> C:\Users\nompy\Visual Studio\openCV\x64\Debug\openCV.exe
